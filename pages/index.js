@@ -2,8 +2,8 @@ import Head from 'next/head'
 import { Inter } from '@next/font/google'
 
 import { Box, Button, Flex,  Heading,Image, SimpleGrid, Text } from '@chakra-ui/react'
-import { BiGitRepoForked } from "react-icons/Bi";
-import { ImStarEmpty } from "react-icons/Im";
+import { BiGitRepoForked } from "react-icons/bi";
+import { ImStarEmpty } from "react-icons/im";
 const inter = Inter({ subsets: ['latin'] })
 
 export default function Home({profile, project}) {
