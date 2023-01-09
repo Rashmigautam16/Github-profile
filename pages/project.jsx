@@ -1,6 +1,6 @@
 import React from 'react'
 import { Box, Flex,  Heading, SimpleGrid, Text } from '@chakra-ui/react'
-import { BiGitRepoForked } from "react-icons/ii";
+import { BiGitRepoForked } from "react-icons/bi";
 import { ImStarEmpty } from "react-icons/im";
 
 const project = ({project}) => {
